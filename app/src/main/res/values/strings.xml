@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Home Setting</string>
+    <string-array name="main_menu_array">
+        <item>Garage</item>
+        <item>House Temperature</item>
+        <item>Outside Weather</item>
+    </string-array>
+</resources>
